@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526922709 source:h:\codeblocks projects\picknnsimulator\main.c
+	<stdio.h>
+	<stdlib.h>
+
